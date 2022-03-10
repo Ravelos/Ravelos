@@ -6,7 +6,7 @@ Gosto de trabalhar em equipe, os idiomas e a tecnologia.
 
 
 
-![Ravelos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravelos&theme=blue-green&show_icons=true&include_all_commits=true&count_private=true)
+![Ravelos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravelos&theme=blue-green&show_icons=true&include_all_commits=true)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravelos&layout=compact&langs_count=7&theme=blue-green"/>
 
