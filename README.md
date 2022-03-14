@@ -1,15 +1,21 @@
 ### Olá! Eu sou o Oswaldo Ravelo. 🖖🏿
 Gosto de trabalhar em equipe, os idiomas e a tecnologia.
 
+<div align="center"></br>
+
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCGkI_FyjOsjWr3hvSmEwLWg) [![Instagram]( 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raveloswaldo/)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raveloensena)   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raveloswaldo/)
 
+</div>
 
-
+<div align="center"></br>
 
 ![Ravelos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravelos&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true)
 
 
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravelos&layout=compact&langs_count=7&theme=blue-green"/>
+
+</div>
 
 ## Tecnologias que uso:
 
