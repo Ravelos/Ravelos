@@ -1,5 +1,8 @@
-### Olá! Eu sou o Oswaldo Ravelo. 🖖🏿
-Gosto de trabalhar em equipe, os idiomas e a tecnologia.
+### Hello! I'm Oswaldo. 🖖🏿
+I'm really interested in learning different kind of technologies. 
+So far, I know a little bit of HTML,CSS, Javascript, Angular, Node, Java, SQL server.
+
+Being working on this area is sort of a project that was delayed and started to took off in 2021 thanks to Toti Diversidade which is a ONG that helps inmigrants with tech courses.
 
 
 <div align="center">
