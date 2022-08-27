@@ -16,7 +16,7 @@ Being working on this area is sort of a project that was delayed and started to 
 
 </div>
 
-## Tecnologias que uso:
+## Technologies used by me:
 
 <div style="display:inline_block"></br>
    <img align= "center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
