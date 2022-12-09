@@ -2,7 +2,7 @@
 I'm really interested in learning different kind of technologies. 
 So far, I know a little bit of HTML,CSS, Javascript, Angular, Node, Java, SQL server, Angular, React.
 
-Being working on this area is sort of a project that was delayed and started to take off in 2021 thanks to Toti Diversidade which is a NGO that helps inmigrants with tech courses here in Brazil.
+Being working on this area is sort of a project that was delayed and started to take off in 2021 thanks to Toti Diversidade which is a NGO that helps inmigrants with tech courses here in Brazil...
 
 
 <div align="center">
