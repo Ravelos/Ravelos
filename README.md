@@ -7,8 +7,8 @@ Being working on this area is sort of a project that was delayed and started to 
 
 <div align="center">
   <a href="https://github.com/Ravelos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ravelos&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravelos&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ravelos&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ravelos&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
    <div align="center"></br>
 
