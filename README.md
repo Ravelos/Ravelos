@@ -1,8 +1,7 @@
 ### Hello! I'm Oswaldo. 🖖🏿
-I'm really interested in learning different kind of technologies. 
-So far, I know a little bit of HTML,CSS, Javascript, Angular, Node, Java, SQL server, Angular, React.
+I'm interested in learning different kinds of technologies. So far, I know a little bit of HTML, CSS, Javascript, Angular, Node, Java, SQL Server, Angular, and React.
 
-Being working on this area is sort of a project that was delayed and started to take off in 2021 thanks to Toti Diversidade which is a NGO that helps inmigrants with tech courses here in Brazil...
+Working on this area is sort of a project that was delayed and started to take off in 2021 thanks to Toti Diversidade which is teaching platform that helps immigrants with tech courses here in Brazil...
 
 
 <div align="center">
