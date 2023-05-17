@@ -1,7 +1,7 @@
 ### Hello! I'm Oswaldo. 🖖🏿
-I'm interested in learning different kinds of technologies. So far, I know a little bit of HTML, CSS, Javascript, Angular, Node, Java, SQL Server, Angular, and React.
+I have a strong passion for exploring various technologies and expanding my knowledge in the field. Currently, I have a foundational understanding of several programming languages and frameworks including HTML, CSS, JavaScript, Angular, Node, Java, SQL Server, Angular, and React.
 
-Working on this area is sort of a project that was delayed and started to take off in 2021 thanks to Toti Diversidade which is a teaching platform that helps immigrants with tech courses here in Brazil...
+My journey in this field began as a delayed project that finally gained momentum in 2021, largely thanks to the invaluable support of Toti Diversidade. This remarkable teaching platform has been instrumental in assisting immigrants in Brazil by offering tech courses and facilitating their integration into the tech industry.
 
 
 <div align="center">
