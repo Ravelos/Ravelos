@@ -25,6 +25,20 @@ My journey in this field began as a delayed project that finally gained momentum
 </div>
 
 
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
+<div align="center">
+
+### Profile visits
+
+   
+<p align="center"> 
+   <img height="25px" alingn="center" src="https://profile-counter.glitch.me/Ravelos/count.svg" />
+ </p>
+ 
+ </div>
+ <img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
+
+
 
 
 
