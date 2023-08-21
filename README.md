@@ -4,10 +4,15 @@ I have a strong passion for exploring various technologies and expanding my know
 My journey in this field began as a delayed project that finally gained momentum in 2021, largely thanks to the invaluable support of Toti Diversidade. This remarkable teaching platform has been instrumental in assisting immigrants in Brazil by offering tech courses and facilitating their integration into the tech industry.
 
 
-   <div align="center"></br>
+<div align="center"></br>
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCGkI_FyjOsjWr3hvSmEwLWg) [![Instagram]( 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raveloswaldo/)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raveloensena)   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raveloswaldo/)
 
+</div>
+<div align="center">
+  <a href="https://github.com/ravelos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravelos&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravelos&layout=compact&langs_count=7&theme=blue-green"/>  
 </div>
 
 ## Technologies used by me:
