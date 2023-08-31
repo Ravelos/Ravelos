@@ -9,11 +9,11 @@ My journey in this field began as a delayed project that finally gained momentum
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCGkI_FyjOsjWr3hvSmEwLWg) [![Instagram]( 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raveloswaldo/)  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raveloensena)   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raveloswaldo/)
 
 </div>
-<div align="center">
+<!---<div align="center">
   <a href="https://github.com/ravelos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravelos&show_icons=true&include_all_commits=true&count_private=true&theme=blue-green"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravelos&layout=compact&langs_count=7&theme=blue-green"/>  
-</div>
+</div>-->
 
 ## Technologies used by me:
 
